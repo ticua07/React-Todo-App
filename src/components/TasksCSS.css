@@ -1,0 +1,13 @@
+li {
+	float: left;
+	margin-right: 15px;
+	white-space: pre;
+	list-style-position: inside;
+}
+
+.remove-btn {
+	border: none;
+	background-color: #f44336;
+	border-radius: 2px;
+	border: 2px solid #f44336;
+}
