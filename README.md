@@ -11,6 +11,12 @@ Inicia el servidor de mongo usando
 mongod --dbpath ./data/db
 ```
 
+Despues instala las dependencias de Node
+
+```
+npm install
+```
+
 despues inicia el servidor de react
 
 ```
